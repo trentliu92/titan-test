@@ -13,6 +13,9 @@ Your final product
 4. [optional] The card, on click, will permanently delete from the feed
 
 ## Other Notes
+The link to the design document:
+https://xd.adobe.com/view/d4f64862-803b-4d42-7cee-c7aebd2edcf5-a2c7/
+
 You are allowed to use any online resource.
 
 We used a **React Hook** as a quick and easy way to illustrate an API call. If you feel more comfortable using component classes, feel free to do so.
