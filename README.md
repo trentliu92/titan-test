@@ -14,6 +14,8 @@ Try and tackle as many bullet points as you can before your time is up.
 4. [optional] The card, on click, will permanently delete from the feed
 
 ## Other Notes
+All the images you need are in the /src/images folder
+
 The Styled Components library has been installed. You do not have to use this if you're more comfortable with something else.
 
 The link to the design document:
