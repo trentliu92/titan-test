@@ -1,6 +1,6 @@
 
 # KM / Titan HST Web Challenge
-This is a 1-hour coding challenge designed to test the basic principles of ReactJS and CSS. You do not have to follow the project structure given to you. Feel free to organize your project however you'd like.
+This is a 1 and a half hour coding challenge designed to test the basic principles of ReactJS and CSS. You do not have to follow the project structure given to you. Feel free to organize your project however you'd like.
 
 ## Criteria
 Try and tackle as many bullet points as you can before your time is up.
